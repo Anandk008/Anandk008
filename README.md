@@ -9,4 +9,4 @@ Anandk008/Anandk008 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Anandk008/Anandk008/blob/main/devcard.svg" width="400" alt="Anand Kadale's Dev Card"/></a>
+<a href="https://app.daily.dev/Anand008"><img src="https://github.com/Anandk008/Anandk008/blob/main/devcard.svg" width="400" alt="Anand Kadale's Dev Card"/></a>
