@@ -13,7 +13,13 @@ You can click the Preview link to take a look at your changes.
 </a>
 <a href="mailto:Anandkadale1@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge" />
- </a?
+</a>
+<a href="codechef-link">
+  <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef Badge"/>
+  </a>
+<a href="Leetcode-link">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode Badge"/>
+</a>
 <img src="https://komarev.com/ghpvc/?anandk008=your-github-username&style=flat-square&color=blue" alt=""/>
 <br>
 
@@ -62,7 +68,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anandk008&theme=sea)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anandk008&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter" alt="Github Visit Count"/>
 
 <a href="https://app.daily.dev/Anand008"><img src="https://github.com/Anandk008/Anandk008/blob/main/devcard.svg" width="400" alt="Anand Kadale's Dev Card"/></a>
 
