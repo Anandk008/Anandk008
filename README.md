@@ -13,11 +13,9 @@ You can click the Preview link to take a look at your changes.
 </a>
 <img src="https://komarev.com/ghpvc/?anandk008=your-github-username&style=flat-square&color=blue" alt=""/>
 <br>
- </div>
+
+</div>
  
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-
-
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="1200" height="600"/>
 </div>
