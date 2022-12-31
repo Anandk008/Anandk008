@@ -21,10 +21,9 @@ You can click the Preview link to take a look at your changes.
 </a>
 <img src="https://komarev.com/ghpvc/?anandk008=your-github-username&style=flat-square&color=blue" alt=""/>
 <br>
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
   
   </div>
