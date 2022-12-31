@@ -1,16 +1,8 @@
-- 👋 Hi, I’m @Anandk008
-- 👀 I’m interested in Web Development & Android Development 
-- 🌱 I’m currently learning Android Development 
-- 💞️ I’m looking to collaborate on Any industrial project where I can contribute 
-- 📫 How to reach me Anandkadale1@gmail.com 
 
 <!---
 Anandk008/Anandk008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-<a href="https://app.daily.dev/Anand008"><img src="https://github.com/Anandk008/Anandk008/blob/main/devcard.svg" width="400" alt="Anand Kadale's Dev Card"/></a>
-
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -41,7 +33,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
+- 👀 I’m interested in Web Development & Android Development 
+
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+mailto:anandkadale1@gmail.com
 
 ---
 
@@ -66,3 +61,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anandk008&theme=sea)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anandk008&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+<a href="https://app.daily.dev/Anand008"><img src="https://github.com/Anandk008/Anandk008/blob/main/devcard.svg" width="400" alt="Anand Kadale's Dev Card"/></a>
+
+<!-- - 👋 Hi, I’m @Anandk008
+- 👀 I’m interested in Web Development & Android Development 
+- 🌱 I’m currently learning Android Development 
+- 💞️ I’m looking to collaborate on Any industrial project where I can contribute 
+- 📫 How to reach me Anandkadale1@gmail.com  -->
