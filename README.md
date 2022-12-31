@@ -69,8 +69,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anandk008&theme=sea)](https://git.io/streak-stats)
 
 <br>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anandk008&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anandk008&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anandk008&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anandk008&langs_count=6)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <a href="https://app.daily.dev/Anand008"><img src="https://github.com/Anandk008/Anandk008/blob/main/devcard.svg" width="400" alt="Anand Kadale's Dev Card"/></a>
