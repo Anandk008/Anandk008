@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="1200" height="600"/>
 </div>
 
 ---
