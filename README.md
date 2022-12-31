@@ -10,3 +10,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <a href="https://app.daily.dev/Anand008"><img src="https://github.com/Anandk008/Anandk008/blob/main/devcard.svg" width="400" alt="Anand Kadale's Dev Card"/></a>
+
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
