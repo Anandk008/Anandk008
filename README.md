@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m Currently in Third year of B.tech and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
@@ -36,7 +36,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 👀 I’m interested in Web Development & Android Development 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-mailto:anandkadale1@gmail.com
+ | Anandkadale1@gmail.com
 
 ---
 
