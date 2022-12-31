@@ -70,7 +70,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <br>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anandk008&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={anandk008}" alt="Git Lang use Status" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={Anandk008}" alt="Git Lang use Status" />
 
 
 <a href="https://app.daily.dev/Anand008"><img src="https://github.com/Anandk008/Anandk008/blob/main/devcard.svg" width="400" alt="Anand Kadale's Dev Card"/></a>
