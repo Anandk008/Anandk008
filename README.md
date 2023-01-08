@@ -8,16 +8,16 @@ You can click the Preview link to take a look at your changes.
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </br>
 </br>
-<a href="your-linkedin-URL">
+<a href="linkedin.com/in/anandk008">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="mailto:Anandkadale1@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge" />
 </a>
-<a href="codechef-link">
+<a href="https://www.codechef.com/users/anand_008">
   <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef Badge"/>
   </a>
-<a href="Leetcode-link">
+<a href="https://leetcode.com/anand_008/">
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode Badge"/>
 </a>
 <img src="https://komarev.com/ghpvc/?anandk008=your-github-username&style=flat-square&color=blue" alt=""/>
@@ -42,7 +42,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 👀 I’m interested in Web Development & Android Development 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/anandk008)
  | Anandkadale1@gmail.com
 
 ---
@@ -70,12 +70,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <br>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anandk008&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
-<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anandk008&langs_count=8" alt="Github Language used chart"/>
 
 <a href="https://app.daily.dev/Anand008"><img src="https://github.com/Anandk008/Anandk008/blob/main/devcard.svg" width="400" alt="Anand Kadale's Dev Card"/></a>
   
-</div>
 
 <!-- - 👋 Hi, I’m @Anandk008
 - 👀 I’m interested in Web Development & Android Development 
