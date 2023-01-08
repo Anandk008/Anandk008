@@ -25,6 +25,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{anandk008}1212%2Fhit-counter" alt="Github Visit Count"/>
 </div>
+![](https://komarev.com/ghpvc/?username=anandk008&color=lightgrey)
  <!--
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="1200" height="400"/>
