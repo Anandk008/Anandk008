@@ -4,50 +4,57 @@ Anandk008/Anandk008 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </br>
 </br>
-<a href="https://www.linkedin.com/in/anandk008">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-<a href="mailto:Anandkadale1@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge" />
-</a>
-<a href="https://www.codechef.com/users/anand_008">
-  <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef Badge"/>
-  </a>
-<a href="https://leetcode.com/anand_008/">
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode Badge"/>
-</a>
-<img src="https://komarev.com/ghpvc/?anandk008=your-github-username&style=flat-square&color=blue" alt=""/>
-<br>
-<br>
+<p>
+    <a href="https://www.linkedin.com/in/anandk008">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mailto:Anandkadale1@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge" />
+    </a>
+    <a href="https://www.codechef.com/users/anand_008">
+      <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef Badge"/>
+      </a>
+    <a href="https://leetcode.com/anand_008/">
+      <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode Badge"/>
+    </a>
+    <img src="https://komarev.com/ghpvc/?anandk008=your-github-username&style=flat-square&color=blue" alt=""/>
+ </p>
+
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{anandk008}1212%2Fhit-counter" alt="Github Visit Count"/>
 <img src="https://komarev.com/ghpvc/?username=anandk008&color=lightgrey" alt="Github Profile Count" />
 
 </div>
 
----
-### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+<br>
 
-- :telescope: I’m Currently in Third year of B.tech and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+<h1> :man_technologist: About Me : </h1>
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+<p>
+  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 👀 I’m interested in Web Development & Android Development 
+  - :telescope: I’m Currently in Third year of B.tech and contributing to frontend and backend for building web applications.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anandk008)
- | Anandkadale1@gmail.com
+  - :seedling: Exploring Technical Content Writing.
 
----
+  - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-### :hammer_and_wrench: Languages and Tools :
+  - 👀 I’m interested in Web Development & Android Development 
 
-<div>
+  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anandk008)
+   | Anandkadale1@gmail.com
+</p>
+
+<br>
+
+<h1> :hammer_and_wrench: Languages and Tools : </h1>
+
+<div class="links">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
@@ -61,20 +68,25 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
----
-
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anandk008&theme=sea)](https://git.io/streak-stats)
-
 <br>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anandk008&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anandk008&langs_count=8" alt="Github Language used chart"/>
 
-<a href="https://app.daily.dev/Anand008"><img src="https://github.com/Anandk008/Anandk008/blob/main/devcard.svg" width="400" alt="Anand Kadale's Dev Card"/></a>
+<h1> :fire: My Stats : </h1>
+<p align="center">
+<a href="github.com/anandk008" >
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Anandk008&theme=sea" alt="Github Strak " />
+<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anandk008&langs_count=8" alt="Github Language used chart"/> -->
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anandk008&layout=compact&langs_count=8&theme=sea"/>
+    <a href="https://app.daily.dev/Anand008"><img src="https://github.com/Anandk008/Anandk008/blob/main/devcard.svg" height="400" width="400" alt="Anand Kadale's Dev Card"/></a>
+  </a>
+</p>
 
----
 
-
+<!-- 
+<h1>Recent Projects </h1>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sanketmote&repo=Drushti&show_icons=true&theme=jolly" style="width:400px; height:160px;">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sanketmote&repo=WCESPACE&show_icons=true&theme=jolly" style="width:400px; height:160px;"> 
+</div> -->
   
 
 <!-- - 👋 Hi, I’m @Anandk008
