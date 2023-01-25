@@ -4,11 +4,30 @@ Anandk008/Anandk008 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+<div align="center" >
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣤⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⣿⣏⢻⣧⡀⠀⠀⠀⠀⠀⣠⣾⣿⠟⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⣴⠾⢻⣻
+⠀⣴⡾⠿⣶⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⢯⣿⣳⢦⡙⢿⣄⣀⣀⣠⣾⣫⣿⢿⡑⢺⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⣶⠿⢟⣫⣭⣶⣿⣿⡿
+⣸⡟⠀⠀⣸⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣠⣤⣄⣀⣀⣼⠏⣼⣷⣭⡷⠟⠛⠉⡉⠉⢉⢭⠉⠛⠿⣿⣤⣿⣇⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⣴⠾⢟⣫⣥⣶⣿⣿⣟⣷⣻⣿⠟⠀
+⣿⠀⠀⢰⣿⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣴⠿⠛⠋⠉⠉⠉⠉⢻⡟⠀⣿⠟⠉⠤⠀⠀⢀⠀⠠⡇⠈⢣⠀⠉⠒⠙⢿⣿⡀⠀⠀⣀⣤⣶⠾⢟⣫⣽⣾⠿⣟⣯⣿⢿⡽⣾⡽⣾⣿⠏⠀⠀
+⣿⠀⠀⣸⣷⠀⠀⠀⠀⠀⠀⠀⣰⡿⢋⡤⠒⠁⠀⡀⠄⠀⢀⣿⢃⡶⠀⠀⠀⠀⠐⠈⠀⠀⠀⡇⠀⠘⡆⠀⠀⠀⠈⢻⣧⢀⣾⣿⣭⣷⠿⣟⣿⣽⡾⣿⣻⣟⡾⣯⣟⣷⣿⡿⠃⠀⠀⠀
+⢻⣧⠀⣇⠹⢷⣦⣀⡀⠀⠀⣼⢟⡴⠋⠀⠀⠠⠀⠄⠂⠀⢾⡿⢸⠇⠀⠈⠀⠀⠈⠀⠀⠁⠀⢷⠀⠀⣿⢀⠀⠀⡀⠀⢿⣿⣿⣿⣫⣾⡿⣟⡿⣾⣽⣳⣟⡾⣽⣳⣿⣿⡟⠀⠀⠀⠀⠀
+⠁⠻⣷⣝⣦⣤⣬⡽⡿⣿⣿⡏⠌⠀⠀⠄⠁⠀⠁⠀⠄⠈⣾⡇⠈⠀⠀⠀⠀⢹⣷⣤⣆⣼⣧⡼⠀⠀⠸⣿⣷⣷⣾⢿⣿⣿⣿⣧⣿⢯⡿⣽⣻⡿⠋⣿⣯⣟⣷⣿⣿⠏⠀⠀⠀⠀⠀⠀
+⠀⠀⠈⢙⣿⣷⣮⣷⣹⡶⣿⡈⠀⠀⠄⠀⠀⠀⠁⡐⠀⠠⢿⡇⠤⠚⠋⠉⠙⠒⠮⠭⠭⠭⠟⠃⠰⣷⡶⢈⠙⠒⢀⣾⣿⣿⣫⣿⡽⣯⣟⡷⣿⣤⣼⣿⣳⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀
+⠀⢠⣾⢟⢛⣿⠛⠛⠛⠿⣿⢰⡄⠀⢂⠈⡀⠀⠂⠀⠄⠀⢟⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠿⠶⠿⠷⠾⠃⢀⣾⣿⣿⣳⣿⢯⣟⡷⣯⣟⣿⣻⣿⢿⣿⣿⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⢸⣷⣳⡜⢟⣁⡀⠀⠀⠻⠇⠙⢤⣀⡀⠀⠀⠀⢀⣾⡄⠀⠈⣿⣶⣄⣀⣀⣤⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⣿⣳⡿⣯⣟⣾⣽⣷⣿⣻⢯⣟⣿⣾⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠸⣙⠛⠻⠿⢶⣯⣬⣐⣒⠠⠄⣀⡈⠉⠛⠋⢉⣿⠏⠁⠀⠘⣿⠟⠛⠉⠉⠉⠉⠙⣻⢷⣶⣶⣶⣶⣿⣿⣿⣿⣿⡿⣽⣻⣷⢿⣻⣽⣾⣷⣿⣿⣿⣿⠗⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠉⠀⠐⠠⠤⠉⢉⠛⠻⠿⢶⣶⣭⣥⣀⡘⣿⡈⠒⠒⠚⠁⠀⠀⠀⠀⠀⠐⣷⡝⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣻⢿⡽⣯⣿⣿⣾⣿⣿⠿⠛⠩⠐⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠁⠀⠂⠤⠌⣉⠙⠛⢿⣿⣶⣶⣶⣶⣾⣿⣿⣿⣷⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣳⣿⣿⣿⣿⣿⠿⠛⠉⠄⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠪⡻⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿⡿⠟⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠟⠻⠿⢿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿⡿⠟⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠛⢻⣿⠿⠿⠛⡁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀
+</div>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</br>
-</br>
+<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
+<!-- </br></br> -->
 <p>
     <a href="https://www.linkedin.com/in/anandk008">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -66,29 +85,33 @@ You can click the Preview link to take a look at your changes.
 
 
 <h1> :hammer_and_wrench: Languages and Tools : </h1>
-
-<div class="links">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="80" height="80"/>
+<div align="center">
+  <div class="links">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="80" height="80"/>&nbsp;
+    <br><br>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="80" height="80"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="80" height="80"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="80" height="80"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" **alt="canva" width="80" height="80"/>
+  </div>
 </div>
 
+<br><br><br>
 
-
-
-<h1>Recent Projects </h1>
+<h1> 💻 Recent Projects </h1>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anandk008&repo=DevPost&show_icons=true&theme=jolly" style="width:400px; height:160px;">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Anandk008&repo=One-Track&show_icons=true&theme=jolly" style="width:400px; height:160px;"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Anandk008&repo=Simple.Calculator&show_icons=true&theme=jolly" style="width:400px; height:160px;"> 
 </div> 
   
 
