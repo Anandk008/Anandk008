@@ -112,6 +112,8 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anandk008&repo=DevPost&show_icons=true&theme=jolly" style="width:400px; height:160px;">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anandk008&repo=Simple.Calculator&show_icons=true&theme=jolly" style="width:400px; height:160px;"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anandk008&repo=Github-finder&show_icons=true&theme=jolly" style="width:400px; height:160px;"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anandk008&repo=k8-practice&show_icons=true&theme=jolly" style="width:400px; height:160px;"> 
 </div> 
   
 
