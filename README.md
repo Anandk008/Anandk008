@@ -79,7 +79,8 @@ You can click the Preview link to take a look at your changes.
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Anandk008&theme=dracula" alt="Github Strak " />
 <!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anandk008&langs_count=8" alt="Github Language used chart"/> -->
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anandk008&layout=compact&langs_count=8&theme=dracula"/>
-    <a href="https://app.daily.dev/Anand008"><img src="https://github.com/Anandk008/Anandk008/blob/main/devcard.svg" height="400" width="400" alt="Anand Kadale's Dev Card"/></a>
+    <a href="https://app.daily.dev/Anand008"><img src="https://github.com/Anandk008/Anandk008/blob/main/devcard.svg" height="400" width="300" alt="Anand Kadale's Dev Card"/></a> 
+    <a href="https://leetcode.com/anand_008/"> <img src="https://github.com/Anandk008/Anandk008/blob/main/download.png" height="400" width="250" alt="Leetcode 100 Days streak card" /></a>
   </a>
 </p>
 
